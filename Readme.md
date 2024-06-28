@@ -39,6 +39,11 @@ Several Siamese network models are designed using RNN, LSTM, GRU, and Transforme
 - **Model Performance**: The Transformer-based Siamese network model proved to be the most effective.
 - **User Experience**: Improved the efficiency and relevance of information retrieval on Quora-like platforms.
 
+GRU(fasttext)
+![image](https://github.com/rutujakokate430/Paraphrase-Identification-using-Quora-Question-Pairs-Natural-Language-Processing-/assets/111034043/f6495990-f462-4fe4-a0dd-9ac0580363fa)
+
+GRU (GloVe)
+
 ## Conclusion
 
 This project sets a new standard for digital content management, reducing redundancy, and improving data quality. The use of advanced machine learning techniques has proven effective in paraphrase identification, with significant implications for various applications in digital content management and plagiarism detection.
