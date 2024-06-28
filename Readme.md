@@ -39,10 +39,10 @@ Several Siamese network models are designed using RNN, LSTM, GRU, and Transforme
 - **Model Performance**: The Transformer-based Siamese network model proved to be the most effective.
 - **User Experience**: Improved the efficiency and relevance of information retrieval on Quora-like platforms.
 
-GRU(fasttext)
+**GRU(fasttext)**
 ![image](https://github.com/rutujakokate430/Paraphrase-Identification-using-Quora-Question-Pairs-Natural-Language-Processing-/assets/111034043/f6495990-f462-4fe4-a0dd-9ac0580363fa)
 
-GRU (GloVe)
+**GRU (GloVe)**
 ![image](https://github.com/rutujakokate430/Paraphrase-Identification-using-Quora-Question-Pairs-Natural-Language-Processing-/assets/111034043/0a07168e-8caf-4a2f-a2c3-cc6905d7c10e)
 
 ## Conclusion
